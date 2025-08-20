@@ -42,3 +42,9 @@ This project tackles the **RSNA 2024 Lumbar Spine Degenerative Classification Ch
 - **scikit-learn** for evaluation metrics  
 
 ## 📂 Repository Structure  
+```plaintext
+├── data/               # Preprocessed MRI slices / metadata  
+├── notebooks/          # Jupyter notebooks for EDA & prototyping  
+├── models/             # CNN architecture and training scripts  
+├── results/            # Model outputs and evaluation metrics  
+└── README.md           # Project documentation
